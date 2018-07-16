@@ -16,8 +16,8 @@
 title: First Hack
 email: mannalytics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  attempts to document my foray into data science and computational psychiatric with
-  some digressions into running stats.
+  attempts to document my foray into data science and computational psychiatry with
+  some digressions into data viz.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://josephsmann.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mannalytics
