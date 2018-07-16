@@ -32,4 +32,6 @@ Panning and zooming.
   }).catch(console.error);
 </script>
 
+For the really eager, here is a messy uncommented notebook with the code: <a href="/altair_s7.ipynb"> altair_s7.ipynb </a>
+
 </body>
